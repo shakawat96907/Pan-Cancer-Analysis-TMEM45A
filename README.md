@@ -76,7 +76,7 @@ The entire workflow is systematically partitioned into the following 13 function
 ---
 
 ### 🛠️ Computational Framework & Prerequisites
-* **Language Environment:** R (v4.5.2) & Linux Bash CLI
+* **Language Environment:** R (v4.5.2) 
 * **Primary Libraries:** `TCGAplot (v8.0.0)`  (https://github.com/tjhwangxiong/TCGAplot), `survival`, `survminer`, `ggplot2`, `DESeq2`, `tidyverse`
 * **Statistical Thresholding:** Wilcoxon Test (TIMER2.0); ANOVA/t-tests (UALCAN); Spearman/Pearson correlation mapping (GEPIA2/TCGAplot). Significance established strictly at $p < 0.05$.
 
