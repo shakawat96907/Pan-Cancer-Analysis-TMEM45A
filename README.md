@@ -80,5 +80,15 @@ The entire workflow is systematically partitioned into the following 13 function
 * **Primary Libraries:** `TCGAplot (v8.0.0)`  (https://github.com/tjhwangxiong/TCGAplot), `survival`, `survminer`, `ggplot2`, `DESeq2`, `tidyverse`
 * **Statistical Thresholding:** Wilcoxon Test (TIMER2.0); ANOVA/t-tests (UALCAN); Spearman/Pearson correlation mapping (GEPIA2/TCGAplot). Significance established strictly at $p < 0.05$.
 
+
+
+---
+### 📜 Declarations & Contact
+* **Author:** Md. Shakawat Hossain  
+* **Affiliation:** Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh.  
+* **Correspondence:** [shakawathossain96907@gmail.com](mailto:shakawathossain96907@gmail.com)
+* **Professional Networks:** [LinkedIn Profile](https://www.linkedin.com/in/md-shakawat-hossain-372143378/) | [ORCID Profile](https://orcid.org/0009-0008-5050-2275)
+
+
 ---
 *Maintained by Md. Shakawat Hossain. For collaboration, data requests, or inquiries regarding the corresponding molecular oncology manuscript, reach out via E-mail, LinkedIn or ResearchGate.*
