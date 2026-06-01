@@ -81,4 +81,4 @@ The entire workflow is systematically partitioned into the following 13 function
 * **Statistical Thresholding:** Wilcoxon Test (TIMER2.0); ANOVA/t-tests (UALCAN); Spearman/Pearson correlation mapping (GEPIA2/TCGAplot). Significance established strictly at $p < 0.05$.
 
 ---
-*Maintained by Md. Shakawat Hossain. For collaboration, data requests, or inquiries regarding the corresponding molecular oncology manuscript, reach out via LinkedIn or ResearchGate.*
+*Maintained by Md. Shakawat Hossain. For collaboration, data requests, or inquiries regarding the corresponding molecular oncology manuscript, reach out via E-mail, LinkedIn or ResearchGate.*
