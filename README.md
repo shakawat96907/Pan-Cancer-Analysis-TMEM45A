@@ -9,9 +9,9 @@ This study decodes the oncogenic footprint of TMEM45A by integrating differentia
 
 ### 📂 Repository Structure
 
-* 📁 **`Scripts/`**: R scripts utilizing `TCGAplot (v8.0.0)` for Cox proportional hazards modeling, forest plots, radar plots, and advanced biostatistical correlations.
-* 📁 **`Figures/`**: Publication-quality multi-omic figures (Differential expression charts, Kaplan-Meier curves, Forest plots, and TMB/MSI radar graphs).
-* 📁 **`Data/`**: Curated metadata tables, cohort acronym guides, and intersecting gene matrices.
+• 📂 Scripts/ : 10 structured R scripts containing the core transcriptomic pipelines alongside `setup.R` for high-throughput environment initialization.
+• 📂 Figures/ : Publication-quality multi-omic figures (Differential expression charts, Kaplan-Meier curves, Forest plots, and TMB/MSI radar graphs).
+• 📂 Data/    : Curated metadata tables, cohort acronym guides, and intersecting gene matrices.
 
 ---
 
